@@ -1,0 +1,14 @@
+1.How do you change the mode from edit to read-onl%?
+Answer- <Esc> =using escape key mode can be changed from edit to read-only.
+
+2.How do you (a)save the file you are editing and (b)close the file you are editing?
+Answer- :wq =saves and exists the fil
+
+3.How do you delete (a)letter (b)word (c)sentence?
+Answer- x =is used to delete a letter
+        dw =is used to delete a word
+        d$ =is used to delete a sentence after the period.
+        dd =is used to delete the whole sentence .
+
+4.you are editing a document in edit mode.Explain how you will replace one word with another?
+Answer- delete the word using dw and append the word using A
