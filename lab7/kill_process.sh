@@ -1,2 +1,2 @@
 #!bin/bash
-pkill -9f  nautilus 
+pkill -9 nautilus 
